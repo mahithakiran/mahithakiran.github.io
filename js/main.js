@@ -33,7 +33,7 @@ function contact(){
   return "<h2><span style=\"color:#cc6666;\">Contact:</span></h2><table>\
   <tr>\
     <td>Email :</td>\
-    <td><a href=\"mailto:omar1024@protonmail.com\">omar1024@protonmail.com</a></td>\
+    <td><a href=\"mailto:omar1024@protonmail.com\">Enter Mail</a></td>\
   </tr></table>";
 }
 
@@ -42,7 +42,7 @@ function skills(){
 }
 
 function about(){
-  return "<p>Hey myself Omar.Im a frontend Dev.I help spiderman to build web</p>";
+  return "<p>Hey myself Mahitha.Im a frontend Dev.I help spiderman to build web</p>";
 }
 
 function cv(){
@@ -52,9 +52,8 @@ function cv(){
 
 function links(){
   return "<span style=\"color: #b5bd68;\"><h2>Links:</h2></span><ul>\
-  <li><a href=\"https://www.linkedin.com/in/omar1024/\" target=\"_blank\"><i class=\"fab fa-linkedin\"></i> LinkedIn</a></li>\
-  <li><a href=\"https://www.github.com/omar1024\" target=\"_blank\"><i class=\"fab fa-github\"></i> Github</a></li>\
-  <li><a href=\"https://www.twitter.com/pnutbutter_jar\" target=\"_blank\"><i class=\"fab fa-twitter\"></i> Twitter</a></li>\
+  <li><a href=\"https://www.linkedin.com/in/mahitha-kiran-3947251a2/\" target=\"_blank\"><i class=\"fab fa-linkedin\"></i> LinkedIn</a></li>\
+  <li><a href=\"https://www.github.com/mahithakiran\" target=\"_blank\"><i class=\"fab fa-github\"></i> Github</a></li>\
   </ul>";
 }
 
